@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: FocusSquad.Client, Tenant: One Beyond (dcslsoftware.com - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
